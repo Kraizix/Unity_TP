@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cd839f7940a07d646b022648a4df03c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {fileID: 5933220869784685296, guid: da4d6cd4b003d924f9a5eacf2223c195, type: 3}
+  - maze: {fileID: 5904510656421043170, guid: b3a772355ae948b4e8a2f43715b60a77, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
